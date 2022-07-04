@@ -1,0 +1,179 @@
+body{
+    font-family:"Montserrat", sans-serif; overflow: hidden;
+}
+.body{
+    background-color:rgb(255, 255, 255)
+}
+header{
+    height: 100px;
+    width: 100%;
+    line-height:90px;
+    background-color: green;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.menu{
+    float: right;
+    text-align: center;
+    font-size: larger;
+}
+.menu a{
+    color: #fff;
+    margin-right:20px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+.menu a:hover{
+    color:coral
+    text-decoration: underline;
+}
+.ban img{
+    height: 550px;
+    width: 100vw;
+}
+
+.inner-banner h1{
+    color:#fff
+    text-shadow: 1px 1px 20px #000000;
+    font-family: "Montserrat",sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: pointer;
+}
+.inner-banner h2{
+    color: fff;
+    text-shadow:1px 1px 20px #000000; 
+    font-family:"Montserrat" sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: pointer;
+}
+inner-banner h2 a{
+    text-decoration: none;
+    color: rgb(103,6, 71,0.823);
+}
+inner-banner h2 a:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+.inner-banner h3{
+    color: green;
+    text-shadow: 1px 1px 20px #000000;
+    font-family: "Montserrat" sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 75px;
+}
+.inner-banner .btn-custom:hoover{
+    background-color: orangered;
+    color: #fff; 
+}
+footer{
+    background-color: #ffffff;
+    text-align: center;
+    color: rgb(223, 158, 22);
+    font-size: 15px;
+    font-weight: bolder;
+    overflow: hidden;
+    font-family: "Montserrat"sans-serif;
+}
+.fa{
+    font-size: 25px;
+    text-align: center;
+}
+.mail{
+    text-decoration: none;
+    color: darkgreen;
+    cursor: pointer;
+}
+.fa-solid{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.tel{
+    text-decoration: none;
+    color: darkgreen;
+    cursor: pointer;
+}
+.about{
+    font-family: "Montserrat" sans-serif;
+    text-align: center;
+    color: darkgreen;
+    font-weight: bolder;
+}
+article h2{
+    color: darkgreen;
+}
+p{
+    font-weight: bold;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 1;
+}
+.card-img-top{
+    height: 250px;
+    width: 350px;
+}
+.card-body{
+    height: 250px;
+    text-align: center;
+    background-color: #ffffff;
+    color: green;
+}
+article{
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    margin-left: 55px;
+    margin-right: 45px;
+    justify-content: center;
+    border-radius: 15px;
+    color: green;
+}
+form{
+    margin-bottom:65px;
+    padding-bottom: 25px;
+    font-family: "Montserrat" sans-serif;
+    color: coral;
+    background-image: url("images/cover-contact.jpg.webp");
+    border-radius:20px;
+}
+.container h1{
+    font-family: "Montserrat" sans-serif;
+}
+.apropos h2{
+    text-align: center;
+    color: coral;
+    font-size: 35px;
+    padding-top: 50px;
+    font-family: "Monserrat" sans-serif;
+}
+marquee{
+    margin-top: 15px;
+}
+.col-md-12 button{
+    background-color: #fff;
+    color: coral;
+    font-weight: bold;
+}
+.col-md-12 button:hoover{
+    background-color: #ffffff;
+    color: coral;
+}
+.container h1{
+    color: coral;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
